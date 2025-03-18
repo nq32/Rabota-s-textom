@@ -1,0 +1,9 @@
+start
+
+new name string
+
+set name "din"
+
+log string "Здравствуйте " >> name
+
+finish
